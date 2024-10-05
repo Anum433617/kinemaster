@@ -5,69 +5,8 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Kinemaster MOD APK - Video Editing at Its Best</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-            margin: 20px;
-            background-color: #f4f4f4;
-            padding: 20px;
-            max-width: 800px;
-            margin: auto;
-            border: 1px solid #ccc;
-            background-color: #fff;
-        }
-
-        h1 {
-            color: #000;
-            font-size: 32px;
-            margin-top: 10px;
-            font-weight: bold;
-            text-align: center;
-        }
-
-        h2 {
-            color: #000;
-            font-size: 24px;
-            margin-top: 20px;
-            font-weight: bold;
-        }
-
-        h3 {
-            color: #000;
-            font-size: 20px;
-            margin-top: 15px;
-            font-weight: bold;
-        }
-
-        p {
-            font-size: 16px;
-            color: #666;
-        }
-
-        ul {
-            margin-left: 20px;
-            list-style-type: disc;
-        }
-
-        ol {
-            margin-left: 20px;
-            list-style-type: decimal;
-        }
-
-        strong {
-            color: #000;
-        }
-
-        a {
-            color: #3498db;
-            text-decoration: none;
-        }
-
-        a:hover {
-            text-decoration: underline;
-        }
-    </style>
+    <!-- Link to external CSS file -->
+    <link rel="stylesheet" href="styles.css">
 </head>
 
 <body>
